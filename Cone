@@ -1,0 +1,14 @@
+
+
+
+1)Cone:
+Construction of a Cone using Robo Analyzer software Procedure:
+the following steps are to be followed to get the output.
+Step 1: Select KUKAKRS_IND robot.
+Step2: Joint 5 angle set to 215 degrees in joint control mode and erase 
+trace before start.
+Step3: X= -100.Y = 50. Z = 0 and press start button. 
+Step4: X = 50, Y= 0.Z = -100 and press start button. 
+Step5: X=-50, Y= 0.Z = 100 and press start button.
+Step6: X = 100, Y=-50. Z = 0 and press start button.
+Step7: Move Joint 4 by 360 degree to get cone in joint control mod
